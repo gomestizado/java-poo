@@ -1,8 +1,8 @@
 # Aula 02<br>
 
 ### Aula Teórica<br>
-[O que é um Objeto?](https://www.cursoemvideo.com/curso/java-poo/aulas/java-poo/modulos/o-que-e-um-objeto/)
+[O que é um Objeto?](https://www.youtube.com/watch?v=aR7CKNFECx0)
 <br>
 
 ### Aula Prática<br>
-[Criando Classes e Objetos em Java](https://www.cursoemvideo.com/curso/java-poo/aulas/java-poo/modulos/criando-classes-e-objetos-em-java/)
+[Criando Classes e Objetos em Java](https://www.youtube.com/watch?v=wNaoX6VOj54)
