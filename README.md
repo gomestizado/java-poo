@@ -3,8 +3,6 @@ Curso completo de Programação Orientada a Objetos (POO) com a linguagem Java.<
 Aborda os principais conceitos como Classes, Objetos, instanciamento, abstração, encapsulamento, herança, polimorfismo e muito mais.<br>
 Criado pelo professor <b>Gustavo Guanabara</b> para o <b>Curso em Vídeo</b>, explica todos os conceitos de POO de uma maneira simples, objetiva e divertida.
 
-<br>
-
 ## <b>Counteúdo</b>
     Aula Teórica 1 – O que é Programação Orientada a Objetos?
     Aula Prática 1 – Instalando o JDK e NetBeans
