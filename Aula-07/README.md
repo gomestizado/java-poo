@@ -6,5 +6,3 @@
 
 ### Aula Prática<br>
 [Objetos Compostos em Java](https://www.youtube.com/watch?v=BfrbCQ3XcrA)
-
-teste
